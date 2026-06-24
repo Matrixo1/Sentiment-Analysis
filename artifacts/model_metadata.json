@@ -1,0 +1,5 @@
+{
+    "model_name": "Logistic Regression (TF-IDF)",
+    "accuracy": 0.877,
+    "sample_limit": 20000
+}

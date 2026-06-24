@@ -1,0 +1,30 @@
+{
+    "Logistic Regression (TF-IDF)": {
+        "accuracy": 0.877,
+        "precision": 0.8649038461538462,
+        "recall": 0.8950248756218906,
+        "f1_score": 0.8797066014669926,
+        "roc_auc": 0.9494952373809343
+    },
+    "Linear SVM (TF-IDF)": {
+        "accuracy": 0.86825,
+        "precision": 0.8622374206155349,
+        "recall": 0.8781094527363185,
+        "f1_score": 0.8701010598964752,
+        "roc_auc": 0.9431025775644392
+    },
+    "Naive Bayes (TF-IDF)": {
+        "accuracy": 0.85475,
+        "precision": 0.8430148823811809,
+        "recall": 0.8736318407960199,
+        "f1_score": 0.8580503298314195,
+        "roc_auc": 0.9280549513737844
+    },
+    "Logistic Regression (BoW)": {
+        "accuracy": 0.85275,
+        "precision": 0.8484551250613046,
+        "recall": 0.8606965174129353,
+        "f1_score": 0.8545319832057298,
+        "roc_auc": 0.925633640841021
+    }
+}
